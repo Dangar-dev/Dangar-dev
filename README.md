@@ -92,7 +92,7 @@ Desenvolvendo soluções para automação de processos jurídicos, integração 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Dangar-dev/Dangar-dev/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
