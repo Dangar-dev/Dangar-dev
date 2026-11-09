@@ -68,9 +68,9 @@ Desenvolvendo soluções para automação de processos jurídicos, integração 
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Dangar-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dangar-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
