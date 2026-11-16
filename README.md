@@ -9,7 +9,7 @@
 Desenvolvendo soluções para automação de processos jurídicos, integração de APIs e processamento de grandes volumes de dados.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Back-end+Developer;PHP+%7C+PostgreSQL+%7C+JavaScript;API+Integration;Database+Optimization;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;PHP+%7C+PostgreSQL+%7C+JavaScript+%7C+C%23+%7C+Python+%7C+C%2B%2B;API+Integration+%7C+REST+APIs;ETL+%26+Data+Processing;Database+Optimization;Big+Data+Processing;LegalTech+Development;Always+Learning+New+Technologies" />
 
 </div>
 
